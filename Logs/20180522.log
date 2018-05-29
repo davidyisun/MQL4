@@ -1,0 +1,58 @@
+0	17:10:57.961	Expert company _onlive\send_1.0\SignalSend USDCHF,H1: loaded successfully
+0	17:10:57.961	SignalSend USDCHF,H1 inputs: EaName=407610636; 
+0	17:11:00.621	SignalSend USDCHF,H1: initialized
+0	17:15:30.885	SignalSend USDCHF,H1: uninit reason 4
+0	17:15:30.887	Expert SignalSend USDCHF,H1: removed
+0	17:15:47.780	Expert company _onlive\send_1.0\SignalSend USDJPY,H1: loaded successfully
+0	17:15:57.752	SignalSend USDJPY,H1 inputs: EaName=407610636; 
+0	17:15:57.801	SignalSend USDJPY,H1: initialized
+0	17:16:08.428	Expert company_strategies\TpAndSl\TakeProfitAndStopLoss AUDCAD,H1: loaded successfully
+0	17:16:30.583	TakeProfitAndStopLoss AUDCAD,H1 inputs: MS=-------------ÒÆ¶¯Ö¹Ëð-------------; IsUseMS=true; Pricelimit=800.0; MovingStopLossStep=400.0; IsTrackSeclet=false; MagicNum=0; 
+0	17:16:30.640	TakeProfitAndStopLoss AUDCAD,H1: initialized
+0	17:28:21.383	TakeProfitAndStopLoss AUDCAD,H1: uninit reason 5
+0	17:28:21.408	TakeProfitAndStopLoss AUDCAD,H1 inputs: MS=-------------ÒÆ¶¯Ö¹Ëð-------------; IsUseMS=true; Pricelimit=200.0; MovingStopLossStep=60.0; IsTrackSeclet=false; MagicNum=0; 
+0	17:28:21.410	TakeProfitAndStopLoss AUDCAD,H1: initialized
+2	20:34:02.935	TakeProfitAndStopLoss AUDCAD,H1: modify #70528534 sell 0.01 EURUSD at 1.18100 sl: 1.17960 tp: 0.00000 ok
+0	20:34:02.935	TakeProfitAndStopLoss AUDCAD,H1: Order modified successfully.
+2	20:34:04.481	TakeProfitAndStopLoss AUDCAD,H1: modify #70528534 sell 0.01 EURUSD at 1.18100 sl: 1.17958 tp: 0.00000 ok
+0	20:34:04.481	TakeProfitAndStopLoss AUDCAD,H1: Order modified successfully.
+2	20:34:12.232	TakeProfitAndStopLoss AUDCAD,H1: modify #70528534 sell 0.01 EURUSD at 1.18100 sl: 1.17956 tp: 0.00000 ok
+0	20:34:12.232	TakeProfitAndStopLoss AUDCAD,H1: Order modified successfully.
+2	20:34:12.389	TakeProfitAndStopLoss AUDCAD,H1: modify #70528534 sell 0.01 EURUSD at 1.18100 sl: 1.17955 tp: 0.00000 ok
+0	20:34:12.389	TakeProfitAndStopLoss AUDCAD,H1: Order modified successfully.
+2	20:34:14.951	TakeProfitAndStopLoss AUDCAD,H1: modify #70528534 sell 0.01 EURUSD at 1.18100 sl: 1.17954 tp: 0.00000 ok
+0	20:34:14.951	TakeProfitAndStopLoss AUDCAD,H1: Order modified successfully.
+2	20:34:15.417	TakeProfitAndStopLoss AUDCAD,H1: modify #70528534 sell 0.01 EURUSD at 1.18100 sl: 1.17953 tp: 0.00000 ok
+0	20:34:15.417	TakeProfitAndStopLoss AUDCAD,H1: Order modified successfully.
+2	20:45:21.047	TakeProfitAndStopLoss AUDCAD,H1: modify #70528534 sell 0.01 EURUSD at 1.18100 sl: 1.17951 tp: 0.00000 ok
+0	20:45:21.047	TakeProfitAndStopLoss AUDCAD,H1: Order modified successfully.
+2	20:45:21.203	TakeProfitAndStopLoss AUDCAD,H1: modify #70528534 sell 0.01 EURUSD at 1.18100 sl: 1.17946 tp: 0.00000 ok
+0	20:45:21.203	TakeProfitAndStopLoss AUDCAD,H1: Order modified successfully.
+2	20:45:40.264	TakeProfitAndStopLoss AUDCAD,H1: modify #70528534 sell 0.01 EURUSD at 1.18100 sl: 1.17936 tp: 0.00000 ok
+0	20:45:40.264	TakeProfitAndStopLoss AUDCAD,H1: Order modified successfully.
+2	20:45:40.437	TakeProfitAndStopLoss AUDCAD,H1: modify #70528534 sell 0.01 EURUSD at 1.18100 sl: 1.17933 tp: 0.00000 ok
+0	20:45:40.437	TakeProfitAndStopLoss AUDCAD,H1: Order modified successfully.
+2	20:45:40.905	TakeProfitAndStopLoss AUDCAD,H1: modify #70528534 sell 0.01 EURUSD at 1.18100 sl: 1.17925 tp: 0.00000 ok
+0	20:45:40.905	TakeProfitAndStopLoss AUDCAD,H1: Order modified successfully.
+2	20:45:41.409	TakeProfitAndStopLoss AUDCAD,H1: modify #70528534 sell 0.01 EURUSD at 1.18100 sl: 1.17919 tp: 0.00000 ok
+0	20:45:41.409	TakeProfitAndStopLoss AUDCAD,H1: Order modified successfully.
+2	20:45:44.660	TakeProfitAndStopLoss AUDCAD,H1: modify #70528534 sell 0.01 EURUSD at 1.18100 sl: 1.17918 tp: 0.00000 ok
+0	20:45:44.660	TakeProfitAndStopLoss AUDCAD,H1: Order modified successfully.
+2	20:45:45.125	TakeProfitAndStopLoss AUDCAD,H1: modify #70528534 sell 0.01 EURUSD at 1.18100 sl: 1.17915 tp: 0.00000 ok
+0	20:45:45.125	TakeProfitAndStopLoss AUDCAD,H1: Order modified successfully.
+2	20:45:45.828	TakeProfitAndStopLoss AUDCAD,H1: modify #70528534 sell 0.01 EURUSD at 1.18100 sl: 1.17914 tp: 0.00000 ok
+0	20:45:45.828	TakeProfitAndStopLoss AUDCAD,H1: Order modified successfully.
+0	20:45:45.828	TakeProfitAndStopLoss AUDCAD,H1: Error in OrderModify. Error code=1
+0	20:45:45.836	TakeProfitAndStopLoss AUDCAD,H1: Error in OrderModify. Error code=1
+0	20:45:45.939	TakeProfitAndStopLoss AUDCAD,H1: Error in OrderModify. Error code=1
+0	20:45:46.051	TakeProfitAndStopLoss AUDCAD,H1: Error in OrderModify. Error code=1
+0	20:45:46.158	TakeProfitAndStopLoss AUDCAD,H1: Error in OrderModify. Error code=1
+0	20:45:46.274	TakeProfitAndStopLoss AUDCAD,H1: Error in OrderModify. Error code=1
+2	20:45:48.343	TakeProfitAndStopLoss AUDCAD,H1: modify #70528534 sell 0.01 EURUSD at 1.18100 sl: 1.17913 tp: 0.00000 ok
+0	20:45:48.343	TakeProfitAndStopLoss AUDCAD,H1: Order modified successfully.
+0	21:16:49.868	TakeProfitAndStopLoss AUDCAD,H1: uninit reason 5
+0	21:16:49.902	TakeProfitAndStopLoss AUDCAD,H1 inputs: MS=-------------ÒÆ¶¯Ö¹Ëð-------------; IsUseMS=true; Pricelimit=200.0; MovingStopLossStep=60.0; IsTrackSeclet=false; MagicNum=0; 
+0	21:16:49.906	TakeProfitAndStopLoss AUDCAD,H1: initialized
+0	21:28:44.963	TakeProfitAndStopLoss AUDCAD,H1: uninit reason 5
+0	21:28:44.996	TakeProfitAndStopLoss AUDCAD,H1 inputs: MS=-------------ÒÆ¶¯Ö¹Ëð-------------; IsUseMS=true; Pricelimit=200.0; MovingStopLossStep=60.0; IsTrackSeclet=false; MagicNum=0; 
+0	21:28:45.038	TakeProfitAndStopLoss AUDCAD,H1: initialized
